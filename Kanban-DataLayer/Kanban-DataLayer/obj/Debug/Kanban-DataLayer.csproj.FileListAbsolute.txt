@@ -1,0 +1,20 @@
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.exe.config
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.exe
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.pdb
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.dll
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.xml
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.csprojResolveAssemblyReference.cache
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.exe
+C:\dev\origin\New folder\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.pdb
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.exe.config
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.exe
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.pdb
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.exe
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\Kanban-DataLayer.pdb
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.dll
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.xml
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\origin\14-Kanban-DataLayer\Kanban-DataLayer\Kanban-DataLayer\obj\Debug\Kanban-DataLayer.csprojResolveAssemblyReference.cache
